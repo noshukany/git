@@ -1,6 +1,6 @@
 [<<< Previous](cloning.md) | [Next >>>](summary.md)
 
-# Challenges
+# Challenges WOW
 
 ## Challenge One
 
